@@ -1,0 +1,7 @@
+path: ../          # Bir üst klasöre bakmasını söyler.
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['Cardboard', 'Garbage', 'Glass', 'Metal', 'Paper', 'Plastic', 'Trash']
